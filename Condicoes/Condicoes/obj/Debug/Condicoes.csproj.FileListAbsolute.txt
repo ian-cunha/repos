@@ -1,0 +1,7 @@
+C:\Users\iancu\Documents\repos\Condicoes\Condicoes\bin\Debug\Condicoes.exe.config
+C:\Users\iancu\Documents\repos\Condicoes\Condicoes\bin\Debug\Condicoes.exe
+C:\Users\iancu\Documents\repos\Condicoes\Condicoes\bin\Debug\Condicoes.pdb
+C:\Users\iancu\Documents\repos\Condicoes\Condicoes\obj\Debug\Condicoes.csproj.AssemblyReference.cache
+C:\Users\iancu\Documents\repos\Condicoes\Condicoes\obj\Debug\Condicoes.csproj.CoreCompileInputs.cache
+C:\Users\iancu\Documents\repos\Condicoes\Condicoes\obj\Debug\Condicoes.exe
+C:\Users\iancu\Documents\repos\Condicoes\Condicoes\obj\Debug\Condicoes.pdb

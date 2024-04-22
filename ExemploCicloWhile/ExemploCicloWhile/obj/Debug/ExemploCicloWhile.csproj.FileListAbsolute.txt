@@ -1,0 +1,7 @@
+C:\Users\iancu\Documents\repos\ExemploCicloWhile\ExemploCicloWhile\bin\Debug\ExemploCicloWhile.exe.config
+C:\Users\iancu\Documents\repos\ExemploCicloWhile\ExemploCicloWhile\bin\Debug\ExemploCicloWhile.exe
+C:\Users\iancu\Documents\repos\ExemploCicloWhile\ExemploCicloWhile\bin\Debug\ExemploCicloWhile.pdb
+C:\Users\iancu\Documents\repos\ExemploCicloWhile\ExemploCicloWhile\obj\Debug\ExemploCicloWhile.csproj.AssemblyReference.cache
+C:\Users\iancu\Documents\repos\ExemploCicloWhile\ExemploCicloWhile\obj\Debug\ExemploCicloWhile.csproj.CoreCompileInputs.cache
+C:\Users\iancu\Documents\repos\ExemploCicloWhile\ExemploCicloWhile\obj\Debug\ExemploCicloWhile.exe
+C:\Users\iancu\Documents\repos\ExemploCicloWhile\ExemploCicloWhile\obj\Debug\ExemploCicloWhile.pdb

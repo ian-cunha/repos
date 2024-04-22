@@ -1,0 +1,7 @@
+C:\Users\iancu\Documents\repos\Condicoes_SwitchCase\Condicoes_SwitchCase\bin\Debug\Condicoes_SwitchCase.exe.config
+C:\Users\iancu\Documents\repos\Condicoes_SwitchCase\Condicoes_SwitchCase\bin\Debug\Condicoes_SwitchCase.exe
+C:\Users\iancu\Documents\repos\Condicoes_SwitchCase\Condicoes_SwitchCase\bin\Debug\Condicoes_SwitchCase.pdb
+C:\Users\iancu\Documents\repos\Condicoes_SwitchCase\Condicoes_SwitchCase\obj\Debug\Condicoes_SwitchCase.csproj.AssemblyReference.cache
+C:\Users\iancu\Documents\repos\Condicoes_SwitchCase\Condicoes_SwitchCase\obj\Debug\Condicoes_SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\iancu\Documents\repos\Condicoes_SwitchCase\Condicoes_SwitchCase\obj\Debug\Condicoes_SwitchCase.exe
+C:\Users\iancu\Documents\repos\Condicoes_SwitchCase\Condicoes_SwitchCase\obj\Debug\Condicoes_SwitchCase.pdb

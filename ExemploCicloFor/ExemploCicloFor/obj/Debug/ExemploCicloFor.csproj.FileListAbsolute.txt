@@ -1,0 +1,7 @@
+C:\Users\iancu\Documents\repos\ExemploCicloFor\ExemploCicloFor\bin\Debug\ExemploCicloFor.exe.config
+C:\Users\iancu\Documents\repos\ExemploCicloFor\ExemploCicloFor\bin\Debug\ExemploCicloFor.exe
+C:\Users\iancu\Documents\repos\ExemploCicloFor\ExemploCicloFor\bin\Debug\ExemploCicloFor.pdb
+C:\Users\iancu\Documents\repos\ExemploCicloFor\ExemploCicloFor\obj\Debug\ExemploCicloFor.csproj.AssemblyReference.cache
+C:\Users\iancu\Documents\repos\ExemploCicloFor\ExemploCicloFor\obj\Debug\ExemploCicloFor.csproj.CoreCompileInputs.cache
+C:\Users\iancu\Documents\repos\ExemploCicloFor\ExemploCicloFor\obj\Debug\ExemploCicloFor.exe
+C:\Users\iancu\Documents\repos\ExemploCicloFor\ExemploCicloFor\obj\Debug\ExemploCicloFor.pdb
