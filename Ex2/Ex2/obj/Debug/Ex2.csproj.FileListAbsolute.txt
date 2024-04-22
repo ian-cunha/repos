@@ -1,0 +1,7 @@
+C:\Users\iancu\Documents\repos\Ex2\Ex2\bin\Debug\Ex2.exe.config
+C:\Users\iancu\Documents\repos\Ex2\Ex2\bin\Debug\Ex2.exe
+C:\Users\iancu\Documents\repos\Ex2\Ex2\bin\Debug\Ex2.pdb
+C:\Users\iancu\Documents\repos\Ex2\Ex2\obj\Debug\Ex2.csproj.AssemblyReference.cache
+C:\Users\iancu\Documents\repos\Ex2\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+C:\Users\iancu\Documents\repos\Ex2\Ex2\obj\Debug\Ex2.exe
+C:\Users\iancu\Documents\repos\Ex2\Ex2\obj\Debug\Ex2.pdb
