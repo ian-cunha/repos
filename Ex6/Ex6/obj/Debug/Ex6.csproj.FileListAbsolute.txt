@@ -1,0 +1,7 @@
+C:\Users\iancu\Documents\repos\Ex6\Ex6\bin\Debug\Ex6.exe.config
+C:\Users\iancu\Documents\repos\Ex6\Ex6\bin\Debug\Ex6.exe
+C:\Users\iancu\Documents\repos\Ex6\Ex6\bin\Debug\Ex6.pdb
+C:\Users\iancu\Documents\repos\Ex6\Ex6\obj\Debug\Ex6.csproj.AssemblyReference.cache
+C:\Users\iancu\Documents\repos\Ex6\Ex6\obj\Debug\Ex6.csproj.CoreCompileInputs.cache
+C:\Users\iancu\Documents\repos\Ex6\Ex6\obj\Debug\Ex6.exe
+C:\Users\iancu\Documents\repos\Ex6\Ex6\obj\Debug\Ex6.pdb

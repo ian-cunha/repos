@@ -1,0 +1,7 @@
+C:\Users\iancu\Documents\repos\Ex5\Ex5\bin\Debug\Ex5.exe.config
+C:\Users\iancu\Documents\repos\Ex5\Ex5\bin\Debug\Ex5.exe
+C:\Users\iancu\Documents\repos\Ex5\Ex5\bin\Debug\Ex5.pdb
+C:\Users\iancu\Documents\repos\Ex5\Ex5\obj\Debug\Ex5.csproj.AssemblyReference.cache
+C:\Users\iancu\Documents\repos\Ex5\Ex5\obj\Debug\Ex5.csproj.CoreCompileInputs.cache
+C:\Users\iancu\Documents\repos\Ex5\Ex5\obj\Debug\Ex5.exe
+C:\Users\iancu\Documents\repos\Ex5\Ex5\obj\Debug\Ex5.pdb
