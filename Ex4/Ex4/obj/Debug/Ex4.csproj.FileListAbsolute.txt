@@ -1,0 +1,7 @@
+C:\Users\iancu\Documents\repos\Ex4\Ex4\bin\Debug\Ex4.exe.config
+C:\Users\iancu\Documents\repos\Ex4\Ex4\bin\Debug\Ex4.exe
+C:\Users\iancu\Documents\repos\Ex4\Ex4\bin\Debug\Ex4.pdb
+C:\Users\iancu\Documents\repos\Ex4\Ex4\obj\Debug\Ex4.csproj.AssemblyReference.cache
+C:\Users\iancu\Documents\repos\Ex4\Ex4\obj\Debug\Ex4.csproj.CoreCompileInputs.cache
+C:\Users\iancu\Documents\repos\Ex4\Ex4\obj\Debug\Ex4.exe
+C:\Users\iancu\Documents\repos\Ex4\Ex4\obj\Debug\Ex4.pdb
