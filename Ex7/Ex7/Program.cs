@@ -14,12 +14,22 @@ namespace Ex7
 
             // ESTRUTURA DE DADOS
 
-            int val1, val2;
+            int n1, n2;
 
             // ALGORITMO
 
+            Console.WriteLine("Insira o primeiro número: ");
+            n1 = int.Parse(Console.ReadLine());
 
+            Console.WriteLine("Insira o segundo número: ");
+            n2 = int.Parse(Console.ReadLine());
 
+            if (n1 > n2)
+                Console.WriteLine("O maior é: " + n1);
+            else if (n1 < n2)
+                Console.WriteLine("O maior é: " + n2);
+            else
+                Console.WriteLine("São iguais: " + n1);
         }
     }
 }
