@@ -1,0 +1,7 @@
+C:\Users\iancu\Documents\repos\Menu Interativo\Menu Interativo\bin\Debug\Menu Interativo.exe.config
+C:\Users\iancu\Documents\repos\Menu Interativo\Menu Interativo\bin\Debug\Menu Interativo.exe
+C:\Users\iancu\Documents\repos\Menu Interativo\Menu Interativo\bin\Debug\Menu Interativo.pdb
+C:\Users\iancu\Documents\repos\Menu Interativo\Menu Interativo\obj\Debug\Menu Interativo.csproj.AssemblyReference.cache
+C:\Users\iancu\Documents\repos\Menu Interativo\Menu Interativo\obj\Debug\Menu Interativo.csproj.CoreCompileInputs.cache
+C:\Users\iancu\Documents\repos\Menu Interativo\Menu Interativo\obj\Debug\Menu Interativo.exe
+C:\Users\iancu\Documents\repos\Menu Interativo\Menu Interativo\obj\Debug\Menu Interativo.pdb
